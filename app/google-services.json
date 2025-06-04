@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "159928065290",
+    "firebase_url": "https://proj-mobile-5188b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "proj-mobile-5188b",
+    "storage_bucket": "proj-mobile-5188b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159928065290:android:106a4ea578b8b8f0f96ef3",
+        "android_client_info": {
+          "package_name": "com.example.grocery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKFXD3XSni_bY6HKYziOPnko2cvVKqzBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159928065290:android:3817bc9067352f92f96ef3",
+        "android_client_info": {
+          "package_name": "com.example.projetmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKFXD3XSni_bY6HKYziOPnko2cvVKqzBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
